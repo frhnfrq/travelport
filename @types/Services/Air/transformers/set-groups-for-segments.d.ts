@@ -1,0 +1,3 @@
+declare function _exports(params: any): any;
+export = _exports;
+//# sourceMappingURL=set-groups-for-segments.d.ts.map

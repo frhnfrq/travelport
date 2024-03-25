@@ -1,0 +1,3 @@
+declare function _exports(params: any): void;
+export = _exports;
+//# sourceMappingURL=allow-direct-access.d.ts.map

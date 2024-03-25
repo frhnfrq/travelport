@@ -1,0 +1,23 @@
+export let AIR_LOW_FARE_SEARCH_REQUEST: (params: any) => any;
+export let AIR_RETRIEVE_LOW_FARE_SEARCH_REQUEST: (params: any) => any;
+export let AIR_PRICE_FARE_RULES_REQUEST: (params: any) => any;
+export let AIR_PRICE_REQUEST: (params: any) => any;
+export let AIR_PRICE: (params: any) => any;
+export let AIR_CREATE_RESERVATION_REQUEST: (params: any) => any;
+export let AIR_TICKET: (params: any) => any;
+export let AIR_REQUEST_BY_PNR: (params: any) => any;
+export let GDS_QUEUE_PLACE: (params: any) => any;
+export let UNIVERSAL_RECORD_RETRIEVE: (params: any) => any;
+export function AIR_CANCEL_UR(params: any): any;
+export function UNIVERSAL_RECORD_FOID(params: any): any;
+export let UNIVERSAL_RECORD_MODIFY: (params: any) => any;
+export let AIR_FLIGHT_INFORMATION: (params: any) => any;
+export let AIR_GET_TICKET: (params: any) => any;
+export let AIR_GET_TICKETS: (params: any) => any;
+export let AIR_CANCEL_TICKET: (params: any) => any;
+export let AIR_CANCEL_PNR: (params: any) => any;
+export let AIR_EXCHANGE_QUOTE: (params: any) => any;
+export let AIR_EXCHANGE: (params: any) => any;
+export let AIR_EMD_LIST: (params: any) => any;
+export let AIR_EMD_ITEM: (params: any) => any;
+//# sourceMappingURL=AirValidator.d.ts.map

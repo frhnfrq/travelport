@@ -1,0 +1,27 @@
+import legs = require("./legs");
+import passengers = require("./passengers");
+import pricingSolutionXml = require("./pricing-solution-xml");
+import paramsIsObject = require("./params-is-object");
+import allowDirectAccess = require("./allow-direct-access");
+import returnFirstAvailableOnly = require("./return-first-available-only");
+import fop = require("./fop");
+import fopCreditCard = require("./fop-credit-card");
+import pnr = require("./pnr");
+import pcc = require("./pcc");
+import queue = require("./queue");
+import ticketNumber = require("./ticket-number");
+import flightInfo = require("./flight-info");
+import emailOptional = require("./email-optional");
+import phone = require("./phone");
+import deliveryInfoOptional = require("./delivery-info-optional");
+import segments = require("./segments");
+import reservationLocator = require("./reservation-locator");
+import universalRecordLocator = require("./universal-record-locator-code");
+import exchangeToken = require("./exchange-token");
+import platingCarrier = require("./platingCarrier");
+import searchId = require("./search-id");
+import version = require("./version");
+import emdNumber = require("./emd-number");
+import carriers = require("./carriers");
+export { legs, passengers, pricingSolutionXml, paramsIsObject, allowDirectAccess, returnFirstAvailableOnly, fop, fopCreditCard, pnr, pcc, queue, ticketNumber, flightInfo, emailOptional, phone, deliveryInfoOptional, segments, reservationLocator, universalRecordLocator, exchangeToken, platingCarrier, searchId, version, emdNumber, carriers };
+//# sourceMappingURL=index.d.ts.map
