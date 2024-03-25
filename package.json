@@ -1,0 +1,24 @@
+{
+  "name": "travelport",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "fs-extra": "^11.2.0",
+    "galileo-screen": "^1.0.5",
+    "handlebars": "^4.7.8",
+    "handlebars-helper-equal": "^1.0.0",
+    "joi": "^17.9.2",
+    "moment": "^2.29.4",
+    "node-errors-helpers": "^1.0.0",
+    "pretty-data": "^0.40.0",
+    "promise-retry": "^2.0.1",
+    "prompt-sync": "^4.2.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
