@@ -1,6 +1,6 @@
 const { AirValidationError } = require('../AirErrors');
 
-const carrierRegExp = /^[A-Z0-9]{2}$/;
+const carrierRegExp = /^[A-Z0-9]{2,3}$/;
 
 module.exports = (params) => {
   const { permittedCarriers, preferredCarriers } = params;
